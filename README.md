@@ -1,3 +1,4 @@
-#**Mcrae.dev**
-##*Developer McRae*
+#Mcrae.dev
+##Developer McRae
 ---
+==See our latest updates here==
